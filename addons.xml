@@ -14,7 +14,7 @@
 	</extension>
 </addon>
 
-<addon id="worldofseries.repositorio" name="[COLOR white][B]World of Series[/B][/COLOR] [COLOR lime][B]Repository[/B][/COLOR]" version="1.0.1" provider-name="Equipe World of Series">
+<addon id="worldofseries.repositorio" name="[COLOR white][B]World of Series[/B][/COLOR] [COLOR white][B]Repository[/B][/COLOR]" version="1.0.2" provider-name="Equipe World of Series">
 	<extension point="xbmc.addon.repository" name="World of Series Add-on Repository">
 		<info compressed="false">http://raw.github.com/worldofseries/wos.repositorio/master/addons.xml</info>
 		<checksum>http://raw.github.com/worldofseries/wos.repositorio/master/addons.xml.md5</checksum>
